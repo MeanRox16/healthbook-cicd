@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.db
+*.sqlite
+.env
+.coverage
+coverage.xml
+trivy-report.txt
+audit-report.txt
